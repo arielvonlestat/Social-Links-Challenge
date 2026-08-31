@@ -7,6 +7,10 @@
   --color-Blue: hsl(228, 45%, 44%);
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: var(--color-Grey900);
   font-family: "Inter";
