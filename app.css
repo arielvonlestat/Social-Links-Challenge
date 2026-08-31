@@ -28,7 +28,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 1.5rem;
+  padding: 1.2rem 1.2rem 0.6rem;
   border-radius: 10px;
   max-width: 330px;
 }
@@ -45,7 +45,6 @@ p {
   justify-content: space-evenly;
   align-items: center;
   height: 250px;
-  padding-top: 1rem;
 }
 
 .buttons a {
@@ -59,7 +58,7 @@ p {
   border-radius: 7px;
   border: none;
   width: 120px;
-  padding: 0.8rem 3.5rem 0.8rem 3.5rem;
+  padding: 0.8rem 3.5rem;
   cursor: pointer;
   font-size: 12px;
   font-weight: 600;
@@ -85,6 +84,10 @@ img {
   font-size: 12px;
   font-weight: 700;
   padding-top: 0.5rem;
+}
+
+.occupation {
+  padding-bottom: 0.5rem;
 }
 
 .attribution {
